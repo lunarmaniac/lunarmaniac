@@ -4,5 +4,5 @@ back-end dev & co-founder at [assetbox](https://assetbox.net?ref=github-dorocha)
 co-founder of [asterix software](https://asterix.sh?ref=github-dorocha);<br>
 
 - ⚙️ i use: `.py`, `.js`, `.java`, `.json`, `.flp`, `.go`
-- 🕵️ into: ctfs, pentesting, secure code
+- 🕵️ interests: networking, secure code, making tools
 - 💬 `ping` me about **collaboration**, **security**, **tips**, **music creation**
