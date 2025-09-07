@@ -6,5 +6,5 @@ co-founder of [asterix software](https://asterix.sh?ref=github-dorocha);<br>
 - ⚙️ i use: `.py`, `.js`, `.java`, `.json`, `.flp`, `.go`
 - 🕵️ interests: networking, secure code, making tools
 - 💬 `ping` me about **collaboration**, **security**, **tips**, **music creation**
-- 
+
 * 📫`me@dorocha.dev`
