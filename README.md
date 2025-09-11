@@ -7,4 +7,5 @@ co-founder of [asterix software](https://asterix.sh?ref=github-dorocha);<br>
 - 🕵️ interests: networking, secure code, making tools
 - 💬 `ping` me about **collaboration**, **security**, **tips**, **music creation**
 
-* 📫`me@dorocha.dev`
+🌐 more of me: [dorocha.dev](https://dorocha.dev) ・ [blog.dorocha.dev](https://blog.dorocha.dev)  
+📫 `me@dorocha.dev`
